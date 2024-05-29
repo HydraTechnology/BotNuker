@@ -14,7 +14,7 @@ then copy the generated url and paste it into your browser, then select the serv
 
 to use this tool you must create a discord bot and then copy the discord bot token.
 
-then in config put the token there.
+then in config.txt put the bot token there.
 
 Now run lambdaNuker and ensure you have a VPN enabled or else you will be rate limmited.
 then it should say the following:
