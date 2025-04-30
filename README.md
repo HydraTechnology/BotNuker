@@ -6,9 +6,9 @@ A Discord Server Nuker made in Python, Create a bot and add it to the target ser
 
 Using tool is pretty simple.
 
-Invite the bot to the target server by going to OAuth2 URL Generator
+Invite the bot to the target server by going to OAuth2 URL Generator in your discord application (https://discord.com/developers/applications)
 
-selecting BOT then go to Bot Permissions and select administrator.
+select BOT then go to Bot Permissions and select administrator.
 
 then copy the generated url and paste it into your browser, then select the server of choice and invite the bot to it.
 
