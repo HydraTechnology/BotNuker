@@ -2,7 +2,7 @@
 A Discord Server Nuker made in Python, Create a bot and add it to the target server, then run this file :)
 
 
-
+FULL TUTORIAL HERE: https://youtu.be/8kDuFlB6A_s?si=M22UU2R2dE6VXIJn 
 
 Using tool is pretty simple.
 
